@@ -38,6 +38,9 @@
 						<para>MySQL 3.23 or above</para>
 					</listitem>
 					<listitem>
+						<para>MariaDB 10.6 or above</para>
+					</listitem>
+					<listitem>
 						<para>MS SQL Server 2000 or above (directly or via ODBC)</para>
 					</listitem>
 					<listitem>
